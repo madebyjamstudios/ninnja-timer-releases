@@ -4,6 +4,14 @@
         <title>Ninnja Timer</title>
         <!-- ITEMS -->
         <item>
+            <title>Ninnja Timer 1.0.1</title>
+            <pubDate>Thu, 06 Aug 2026 22:57:06 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/madebyjamstudios/ninnja-timer-releases/releases/download/v1.0.1/Ninja.Timer-1.0.1-21-macOS-Apple-Silicon.dmg" sparkle:edSignature="NRC/tVPKsKjRdKrzIsZDc+Egwln+qBEJvzOWC3MVE65bE+dp7LAraaCaW3/t/L0+VOzyuyq/2c2Rs1LoUNcRDg==" length="3261016" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Ninnja Timer 1.0.0</title>
             <pubDate>Thu, 06 Aug 2026 22:48:24 +0000</pubDate>
             <sparkle:version>20</sparkle:version>
